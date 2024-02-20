@@ -48,7 +48,7 @@ export default function Home() {
       </div>
 
       <h1 className="text-center text-2xl sm:text-5xl py-10 font-medium">
-        Lorem Ipsum Yojo
+        Lorem ipsum dolor sit amet consectetur adipisicing
       </h1>
     </div>
   );
